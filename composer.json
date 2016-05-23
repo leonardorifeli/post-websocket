@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Hermes": "src\\Hermes"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "0.3.*"
+    }
+}
